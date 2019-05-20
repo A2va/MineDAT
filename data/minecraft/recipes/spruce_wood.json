@@ -1,14 +1,12 @@
 {
   "type": "crafting_shaped",
-  "group": "spruce_wood",
   "pattern": [
-    "   ",
-    " ##",
-    " ##"
+    "##",
+    "##"
   ],
   "key": {
     "#": {
-      "item": "minecraft:spruce_log"
+      "item": "minecraft:spruce_wood"
     }
   },
   "result": {

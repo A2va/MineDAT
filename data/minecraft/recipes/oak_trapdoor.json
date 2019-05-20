@@ -1,17 +1,17 @@
 {
   "type": "crafting_shaped",
+  "group": "wooden_trapdoor",
   "pattern": [
-    "#  ",
-    "## ",
+    "###",
     "###"
   ],
   "key": {
     "#": {
-      "item": "minecraft:bricks"
+      "item": "minecraft:oak_planks"
     }
   },
   "result": {
-    "item": "minecraft:brick_stairs",
+    "item": "minecraft:oak_trapdoor",
     "count": 6
   }
 }
