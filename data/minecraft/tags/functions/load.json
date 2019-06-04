@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+     "minedat:init",
+     "holycube_clock:init"
+  ]
+}
